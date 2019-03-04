@@ -16,6 +16,6 @@ const converterPageModule = angular.module('converter-module', [
                 component: 'converter'
             });
     })
-    .component('main', new ConverterComponent());
+    .component('converter', new ConverterComponent());
 
 export default converterPageModule;
