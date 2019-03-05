@@ -29,7 +29,7 @@ const App = angular.module(
     indexRoutes.name,
 
     // pages
-    // mainModule.name
+    // mainModule.name,
     converterModule.name
 
 
