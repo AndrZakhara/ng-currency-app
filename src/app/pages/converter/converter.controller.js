@@ -99,5 +99,4 @@ export default function ConverterController($scope, CURRENCY_FROM, CURRENCY_TO, 
     vm.fromAmountChange();
   };
 
-  window.onload = fetchCurrenciesList;
 }
